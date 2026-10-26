@@ -35,10 +35,10 @@ Software developer. Simulation, Blender tooling, small productivity tools, and t
 
 ## Productivity
 
-- [Tasketier](https://github.com/meet-brad-ch/Tasketier) - Windows task capture and planning. A
-  global hotkey opens a one-line box; `@fri @15:30 ! #tag` in the text set the due, priority and
-  tags. Today, Upcoming, Inbox and Done views, a tray icon, one local JSON file. The same store is
-  a CLI and an MCP server, with a Claude Code plugin in the repo.
+- [Tasketier](https://github.com/meet-brad-ch/Tasketier) - task capture and planning for Windows.
+  A global hotkey opens a one-line box. Marks in the text (`@fri @15:30 ! #tag`) set the due day,
+  the time, the priority and the tags. Today, Upcoming, Inbox and Done views, a tray icon, one
+  local JSON file. The same store has a CLI and an MCP server, with a Claude Code plugin in the repo.
 - [Tabuzaur](https://github.com/meet-brad-ch/Tabuzaur) - Chrome extension that keeps the pages
   you work with in collections, built by dragging open tabs. Local only, no network.
 
