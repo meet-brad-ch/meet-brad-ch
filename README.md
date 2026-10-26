@@ -1,6 +1,6 @@
 # Brad Chamberlain
 
-Software developer. Simulation, Blender tooling, and the C++ and Python tools around them.
+Software developer. Simulation, Blender tooling, small productivity tools, and the C++ and Python tools around them.
 
 ## Simulation
 
@@ -33,6 +33,15 @@ Software developer. Simulation, Blender tooling, and the C++ and Python tools ar
   Python file that renders PlantUML Gantt charts with per-person calendars and a critical path.
   On [PyPI](https://pypi.org/project/ganttuml/).
 
+## Productivity
+
+- [Tasketier](https://github.com/meet-brad-ch/Tasketier) - Windows task capture and planning. A
+  global hotkey opens a one-line box; `@fri @15:30 ! #tag` in the text set the due, priority and
+  tags. Today, Upcoming, Inbox and Done views, a tray icon, one local JSON file. The same store is
+  a CLI and an MCP server, with a Claude Code plugin in the repo.
+- [Tabuzaur](https://github.com/meet-brad-ch/Tabuzaur) - Chrome extension that keeps the pages
+  you work with in collections, built by dragging open tabs. Local only, no network.
+
 ## Developer tools
 
 - [CLion-cpplint-nova](https://github.com/meet-brad-ch/CLion-cpplint-nova) - cpplint plugin for
@@ -40,8 +49,6 @@ Software developer. Simulation, Blender tooling, and the C++ and Python tools ar
   [JetBrains Marketplace](https://plugins.jetbrains.com/plugin/28989-cpplint-nova).
 - [check_init](https://github.com/meet-brad-ch/check_init) - static analysis for uninitialized
   C, C++ and CUDA declarations. Zero dependencies, no compile_commands.json.
-- [Tabuzaur](https://github.com/meet-brad-ch/Tabuzaur) - Chrome extension that keeps the pages
-  you work with in collections, built by dragging open tabs. Local only, no network.
 - [Ditto](https://github.com/meet-brad-ch/Ditto) - fork of the Ditto clipboard manager with all
   network code removed, built and released by CI.
 - [cmake-build-scripts](https://github.com/meet-brad-ch/cmake-build-scripts) - configure and
