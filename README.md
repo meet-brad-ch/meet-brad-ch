@@ -13,9 +13,11 @@ Software developer. Simulation, Blender tooling, small productivity tools, and t
 - [FlaxEngine](https://github.com/meet-brad-ch/FlaxEngine) - engine fixes found while building a
   paragliding simulator on Flax, submitted upstream as pull requests. Built and tested on Windows
   and Linux.
-- [FlaxMCP-upstream](https://github.com/meet-brad-ch/FlaxMCP-upstream) - fork of eXoz00rd/FlaxMCP,
-  the MCP server for Flax Engine. Adds a bridge host that survives script reloads, game commands,
-  jobs with progress and typed tools for live objects.
+- [FlaxMCP-Live](https://github.com/meet-brad-ch/FlaxMCP-Live) - MCP server for Flax Engine
+  with a live editor bridge, an independent fork of eXoz00rd/FlaxMCP. An AI agent checks,
+  compiles, plays and drives the game without manual steps. The bridge stays connected
+  through script reloads. Adds jobs with progress, editor events, game commands and an
+  agent skill.
 
 ## Blender
 
