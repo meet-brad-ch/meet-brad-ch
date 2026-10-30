@@ -4,9 +4,10 @@ Software developer. Simulation, Blender tooling, small productivity tools, and t
 
 ## Simulation
 
-- [FluidX3D](https://github.com/meet-brad-ch/FluidX3D) - fork of ProjectPhysX/FluidX3D, lattice
-  Boltzmann CFD on OpenCL. Adds a CMake build with one target per example, a Setup API that
-  configures a simulation in SI units, SDF-file voxelization and an SDF cache.
+- [FluidX3D-API](https://github.com/meet-brad-ch/FluidX3D-API) - a modified version of
+  ProjectPhysX/FluidX3D, lattice Boltzmann CFD on OpenCL. Adds a CMake build with one target
+  per example, a Setup API in SI units, SDF voxelization and atmospheric convection.
+  Releases v3.8-api.N on the FluidX3D base.
 - [SDFGenFast](https://github.com/meet-brad-ch/SDFGenFast) - fork of christopherbatty/SDFGen,
   signed distance fields from triangle meshes. Adds a CUDA GPU backend, a multi-threaded CPU
   backend, Python bindings and mesh repair.
