@@ -44,6 +44,11 @@ Software developer. Simulation, Blender tooling, small productivity tools, and t
   local JSON file. The same store has a CLI and an MCP server, with a Claude Code plugin in the repo.
 - [Tabuzaur](https://github.com/meet-brad-ch/Tabuzaur) - Chrome extension that keeps the pages
   you work with in collections, built by dragging open tabs. Local only, no network.
+- [agenthub](https://github.com/meet-brad-ch/agenthub) - messages between coding agents on one
+  machine, for example Codex and Claude Code working on one project in turns. Two commands,
+  `send` and `next`; a shared folder holds all the state, with no server. A message wakes its
+  recipient at once. Includes an agent skill for Claude Code and Codex and a live view of the
+  messages in the browser.
 
 ## Developer tools
 
