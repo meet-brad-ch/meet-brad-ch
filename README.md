@@ -22,11 +22,11 @@ Software developer. Simulation, Blender tooling, small productivity tools, and t
 
 ## Blender
 
-- [add_curve_sapling](https://github.com/meet-brad-ch/add_curve_sapling) - fork of the Sapling
-  Tree Gen extension for Blender 5.2 LTS. Parametric Weber-Penn trees with leaves, pruning, an
-  armature rig and wind. 276 headless tests. Source at
-  [projects.blender.org](https://projects.blender.org/Brad-Chamberlain/add_curve_sapling),
-  releases here.
+- [Sapling Tree Gen](https://projects.blender.org/extensions/add_curve_sapling) - maintainer of
+  the Blender extension, version 1.0.0 for Blender 5.2 and later. Parametric Weber-Penn trees and
+  shrubs with bark, leaves, blossoms, an armature rig and wind. 29 built-in presets, and a tree
+  can be edited after it is added. On the
+  [Blender Extensions Platform](https://extensions.blender.org/add-ons/sapling-tree-gen/).
 
 ## Data and planning
 
